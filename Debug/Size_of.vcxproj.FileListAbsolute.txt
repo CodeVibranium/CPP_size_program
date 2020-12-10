@@ -1,0 +1,2 @@
+E:\C++ code\Size_of\Debug\Size_of.exe
+E:\C++ code\Size_of\Debug\Size_of.pdb

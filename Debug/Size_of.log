@@ -1,0 +1,3 @@
+﻿  Size_of.cpp
+E:\C++ code\Size_of\Size_of.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Size_of.vcxproj -> E:\C++ code\Size_of\Debug\Size_of.exe
